@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning C#, WPF, and MVVM. I think I have a pretty good grasp of them at this point but I won't feel confident until I have a few more projects under my belt.
 - 📫 How to reach me: trevorvance525@gmail.com I check it almost every day.
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love self-hosting things and most of my git use is on my non-public gitea instance.
+- ⚡ Fun fact: I love self-hosting things and most of my git use is on my non-public [gitea](https://gitea.io/en-us/) instance.
 <!--
 **Trevo525/Trevo525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
