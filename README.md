@@ -1,8 +1,8 @@
-- 👋 About me: I am Jr Solutions Developer for Thornton's LLC. I got my Bachelor's Degree in Computer Science from Western Kentucky University. I have a wife that I love very much, no kids (yet), and no pets (yet). I have social media accounts but I really only check Discord and Reddit regularly.
-- 🌱 I’m currently learning C#, WPF, and MVVM. I think I have a pretty good grasp of them at this point but I won't feel confident until I have a few more projects under my belt.
+- 👋 About me: I am Senior Software Engineer at BP (formerly Thornton's LLC). I got my Bachelor's Degree in Computer Science from Western Kentucky University. I have a wife that I love very much, one child, and no pets (yet). I have social media accounts but I really only check Discord.
+- 🌱 I’m currently learning rust and typescript. I use C#, WPF, and MVVM professionally.
 - 📫 How to reach me: trevorvance525@gmail.com I check it almost every day.
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love self-hosting things and most of my git use is on my non-public [gitea](https://gitea.io/en-us/) instance.
+- ⚡ Fun fact: I love self-hosting things and most of my git use is on my non-public [forgejo](https://forgejo.org/) instance.
 <!--
 **Trevo525/Trevo525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
